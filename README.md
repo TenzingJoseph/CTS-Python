@@ -1,1 +1,1 @@
-# CTS-Python
+CTS Python training repository
